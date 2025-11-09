@@ -1,0 +1,7 @@
+Bundle-Name: CustomUserModelListener
+Bundle-SymbolicName: com.liferay.custom.model.listener
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.custom.model.listener.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
